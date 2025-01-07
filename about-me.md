@@ -4,11 +4,11 @@
 Hi, I’m Nitin Kumar, a passionate Digital Marketing Specialist with over 10 years of experience helping businesses grow their online presence. I love crafting strategies that not only boost visibility but also deliver real results—whether it’s driving more traffic, increasing engagement, or turning visitors into loyal customers.
 
 # What I Do Best:
-Search Engine Optimization (SEO): From technical fixes to creating keyword-rich content, I’ve helped businesses rank higher and stay competitive.
-PPC Advertising: I design ad campaigns on platforms like Google and Facebook that maximize ROI and bring in qualified leads.
-Local SEO & Google Business Profiles: I specialize in optimizing local visibility, helping businesses get found by their customers nearby.
-Content Marketing: I enjoy creating content that resonates with audiences while improving search rankings.
-Social Media Strategies: Building authentic connections and engagement through creative social media campaigns is something I truly enjoy.
+  # Search Engine Optimization (SEO): From technical fixes to creating keyword-rich content, I’ve helped businesses rank higher and stay competitive.
+  # PPC Advertising: I design ad campaigns on platforms like Google and Facebook that maximize ROI and bring in qualified leads.
+  # Local SEO & Google Business Profiles: I specialize in optimizing local visibility, helping businesses get found by their customers nearby.
+  # Content Marketing: I enjoy creating content that resonates with audiences while improving search rankings.
+  # Social Media Strategies: Building authentic connections and engagement through creative social media campaigns is something I truly enjoy.
 
 # Tools I Use:
 I’m fluent in industry tools like Google Analytics, Ahrefs, SEMrush, Facebook Ads Manager, WordPress, and HubSpot—just to name a few.
